@@ -20,6 +20,3 @@ A plugin made primarily for Roleplay servers. When a player calls 911, the playe
     <td>Required permission to receive 911 calls. Blue hammers automatically have it.</td>
   </tr>
   </table>
-  
-  # Contact Me
-Join my discord server: https://discord.gg/WnjKabKTvS
